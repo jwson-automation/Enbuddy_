@@ -3,7 +3,12 @@
     <q-header class="q-pt-lg q-pb-lg q-px-md" elevated>
       <q-toolbar class="q-pt-lg q-pb-lg q-px-md" elevated>
         <q-space />
-        <q-img src="../assets/logo.png" alt="Logo" width="300px" fit="cover" />
+        <q-card
+          class="text-h2 font-weight-bold q-mb-xs text-center"
+          style="font-family: Gamja Flower; color: rgb(187, 35, 174)"
+        >
+          &Buddy
+        </q-card>
         <q-space />
         <q-btn
           to="/"
